@@ -18,9 +18,6 @@
 14. [Guia: Árboles Binarios de Búsqueda](https://github.com/untref-ayp2-guias/guia-bst)
 15. [Guia: Montículos](https://github.com/untref-ayp2-guias/guia-monticulos)
 16. [Guia: AVL](https://github.com/untref-ayp2-guias/guia-avl)
-
----
-
 17. [Guia: Mergesort](https://github.com/untref-ayp2-guias/guia-mergesort)
 18. [Guia: Quicksort](https://github.com/untref-ayp2-guias/guia-quicksort)
 19. [Guia: Heapsort](https://github.com/untref-ayp2-guias/guia-heapsort)
