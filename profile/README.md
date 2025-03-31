@@ -2,8 +2,9 @@
 
 ## Guías de ejercicios
 
-1. [Guía: Introducción a Go](https://github.com/untref-ayp2-guias/guia-intro)
-2. [Guía: Análisis de Algoritmos](https://github.com/untref-ayp2-guias/guia-1) (a.k.a. Guía 1)
+1. [Guía: Introducción a Go](https://github.com/untref-ayp2/guia-intro)
+2. [Guía: Análisis de Algoritmos](https://github.com/untref-ayp2/guia-algoritmos)
+---
 3. [Guía: Pilas y Colas](https://github.com/untref-ayp2-guias/guia-2) (a.k.a. Guía 2)
 4. [Guía: Listas](https://github.com/untref-ayp2-guias/guia-3) (a.k.a. Guía 3)
 5. [Guia: Conjuntos](https://github.com/untref-ayp2-guias/guia-4) (a.k.a. Guía 4)
