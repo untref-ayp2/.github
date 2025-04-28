@@ -6,7 +6,7 @@
 2. [Guía: Análisis de Algoritmos](https://github.com/untref-ayp2/guia-algoritmos)
 3. [Guía: Pilas y Colas](https://github.com/untref-ayp2/guia-pilas-colas)
 4. [Guía: Listas](https://github.com/untref-ayp2/guia-listas)
-5. [Guía: Conjuntos, Hashes y Diccionarios](guia-conjuntos-hashtable-diccionarios)
+5. [Guía: Conjuntos, Hashes y Diccionarios](https://github.com/untref-ayp2/guia-conjuntos-hashtable-diccionarios)
 6. [Guia: Recursividad](https://github.com/untref-ayp2/guia-recursividad)
 
 ## Fuera de programa
