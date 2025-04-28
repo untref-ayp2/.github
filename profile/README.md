@@ -7,11 +7,14 @@
 3. [Guía: Pilas y Colas](https://github.com/untref-ayp2/guia-pilas-colas)
 4. [Guía: Listas](https://github.com/untref-ayp2/guia-listas)
 5. [Guía: Conjuntos, Hashes y Diccionarios](guia-conjuntos-hashtable-diccionarios)
+6. [Guia: Recursividad](https://github.com/untref-ayp2/guia-recursividad)
+
+## Fuera de programa
+
+- [Guia: Mapa de Bits](https://github.com/untref-ayp2/guia-bitmaps)
 
 ---
 
-6. [Guia: Mapa de Bits](https://github.com/untref-ayp2-guias/guia-5) (a.k.a. Guía 5)
-7. [Guia: Recursividad](https://github.com/untref-ayp2-guias/guia-7) (a.k.a. Guía 7)
 8. [Guia: Patrones de Diseño](https://github.com/untref-ayp2-guias/guia-patrones)
 9. [Guia: Algoritmos Ávidos](https://github.com/untref-ayp2-guias/guia-avidos)
 10. [Guia: Backtracking](https://github.com/untref-ayp2-guias/guia-backtracking)
