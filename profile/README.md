@@ -10,6 +10,9 @@
 | Guía: Listas                           | [untref-ayp2/guia-listas](https://github.com/untref-ayp2/guia-listas)                                                     | [untref-ayp2/guia-listas-resuelta](https://github.com/untref-ayp2/guia-listas-resuelta)                                                     |
 | Guía: Conjuntos, Hashes y Diccionarios | [untref-ayp2/guia-conjuntos-hashtable-diccionarios](https://github.com/untref-ayp2/guia-conjuntos-hashtable-diccionarios) | [untref-ayp2/guia-conjuntos-hashtable-diccionarios-resuelta](https://github.com/untref-ayp2/guia-conjuntos-hashtable-diccionarios-resuelta) |
 | Guia: Recursividad                     | [untref-ayp2/guia-recursividad](https://github.com/untref-ayp2/guia-recursividad)                                         | [untref-ayp2/guia-recursividad-resuelta](https://github.com/untref-ayp2/guia-recursividad-resuelta)                                         |
+| Guía: Patroned de Diseño               | [untref-ayp2/guia-patrones](https://github.com/untref-ayp2/guia-patrones)                                                 | [untref-ayp2/guia-patrones-resuelta](https://github.com/untref-ayp2/guia-patrones-resuelta)                                                 |
+| Guía: Algoritmos Ávidos                | [untref-ayp2/guia-avidos](https://github.com/untref-ayp2/guia-avidos)                                                     | [untref-ayp2/guia-avidos-resuelta](https://github.com/untref-ayp2/guia-avidos-resuelta)                                                     |
+| Guía: Backtracking                     | [untref-ayp2/guia-backtracking](https://github.com/untref-ayp2/guia-backtracking)                                         | [untref-ayp2/guia-backtracking-resuelta](https://github.com/untref-ayp2/guia-backtracking-resuelta)                                         |
 
 ## Fuera de programa
 
@@ -17,9 +20,6 @@
 
 ---
 
-- [Guia: Patrones de Diseño](https://github.com/untref-ayp2-guias/guia-patrones)
-- [Guia: Algoritmos Ávidos](https://github.com/untref-ayp2-guias/guia-avidos)
-- [Guia: Backtracking](https://github.com/untref-ayp2-guias/guia-backtracking)
 - [Guia: Programación Dinámica](https://github.com/untref-ayp2-guias/guia-programacion-dinamica)
 - [Guia: Árboles Binarios](https://github.com/untref-ayp2-guias/guia-binary-tree)
 - [Guia: Árboles Binarios de Búsqueda](https://github.com/untref-ayp2-guias/guia-bst)
