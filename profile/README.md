@@ -13,6 +13,8 @@
 | Guía: Patroned de Diseño               | [untref-ayp2/guia-patrones](https://github.com/untref-ayp2/guia-patrones)                                                 | [untref-ayp2/guia-patrones-resuelta](https://github.com/untref-ayp2/guia-patrones-resuelta)                                                 |
 | Guía: Algoritmos Ávidos                | [untref-ayp2/guia-avidos](https://github.com/untref-ayp2/guia-avidos)                                                     | [untref-ayp2/guia-avidos-resuelta](https://github.com/untref-ayp2/guia-avidos-resuelta)                                                     |
 | Guía: Backtracking                     | [untref-ayp2/guia-backtracking](https://github.com/untref-ayp2/guia-backtracking)                                         | [untref-ayp2/guia-backtracking-resuelta](https://github.com/untref-ayp2/guia-backtracking-resuelta)                                         |
+| Guia: Programación Dinámica            | [untref-ayp2/guia-programacion-dinamica](https://github.com/untref-ayp2/guia-programacion-dinamica)                       | [untref-ayp2/guia-programacion-dinamica-resuelta](https://github.com/untref-ayp2/guia-programacion-dinamica-resuelta)                       |
+| Guía: Árboles Binarios y Recorridos    | [untref-ayp2/guia-arboles-binarios](https://github.com/untref-ayp2/guia-arboles-binarios)                                 | [untref-ayp2/guia-arboles-binarios-resuelta](https://github.com/untref-ayp2/guia-arboles-binarios-resuelta)                                 |
 
 ## Fuera de programa
 
@@ -20,8 +22,6 @@
 
 ---
 
-- [Guia: Programación Dinámica](https://github.com/untref-ayp2-guias/guia-programacion-dinamica)
-- [Guia: Árboles Binarios](https://github.com/untref-ayp2-guias/guia-binary-tree)
 - [Guia: Árboles Binarios de Búsqueda](https://github.com/untref-ayp2-guias/guia-bst)
 - [Guia: Montículos](https://github.com/untref-ayp2-guias/guia-monticulos)
 - [Guia: AVL](https://github.com/untref-ayp2-guias/guia-avl)
