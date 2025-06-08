@@ -17,6 +17,7 @@
 | Guía: Árboles Binarios y Recorridos            | [untref-ayp2/guia-arboles-binarios](https://github.com/untref-ayp2/guia-arboles-binarios)                                 | ![Autograding](https://github.com/untref-ayp2/guia-arboles-binarios-resuelta/actions/workflows/classroom.yml/badge.svg) [untref-ayp2/guia-arboles-binarios-resuelta](https://github.com/untref-ayp2/guia-arboles-binarios-resuelta)                                                 |
 | Guia: Árboles Binarios de Búsqueda             | [untref-ayp2/guia-abb](https://github.com/untref-ayp2/guia-abb)                                                           | ![Autograding](https://github.com/untref-ayp2/guia-abb-resuelta/actions/workflows/classroom.yml/badge.svg) [untref-ayp2/guia-abb-resuelta](https://github.com/untref-ayp2/guia-abb-resuelta)                                                                                        |
 | Guía: Árboles Binarios de Búsqueda Balanceados | [untref-ayp2/guia-abb-balanceados](https://github.com/untref-ayp2/guia-abb-balanceados)                                   | ---                                                                                                                                                                                                                                                                                 |
+| Guía: Colas de Prioridad y Montículos Binários | [untref-ayp2/guia-monticulos-binarios](https://github.com/untref-ayp2/guia-monticulos-binarios)                           | ---                                                                                                                                                                                                                                                                                 |
 
 ## Fuera de programa
 
@@ -24,7 +25,6 @@
 
 ---
 
-- [Guia: Montículos](https://github.com/untref-ayp2-guias/guia-monticulos)
 - [Guia: Mergesort](https://github.com/untref-ayp2-guias/guia-mergesort)
 - [Guia: Quicksort](https://github.com/untref-ayp2-guias/guia-quicksort)
 - [Guia: Heapsort](https://github.com/untref-ayp2-guias/guia-heapsort)
